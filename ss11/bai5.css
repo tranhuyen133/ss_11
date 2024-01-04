@@ -1,0 +1,35 @@
+.list{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  list-style-type:none ;
+  position: relative;
+  text-align: center;
+  right: 20px;
+    
+}
+.one,.two,.three{
+    position:relative;
+    left: 300px;
+    bottom: 200px;
+}
+img{
+    position: relative;
+    right: 120px;
+    width: 300px;
+    height: 200px;
+    gap:10px;
+}
+.year{
+    width: 50px;
+    height: 20px;
+    background: #e9337c;
+    border-radius: 100px / 50px;
+    position: relative;
+    left: 600px;
+    
+}
+.title{
+    position: relative;
+    bottom: 20px;
+}

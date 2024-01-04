@@ -1,0 +1,32 @@
+.home{
+    position: relative;
+    top: 250px;
+    left: 250px;
+}
+.between{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap:40px;
+    position: relative;
+    bottom: 200px;
+} 
+.last{
+    position: relative;
+    left: 300px;
+    top:200px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(241, 126, 77);
+    text-align: center;
+    
+}
+.image{
+    position: relative;
+    width: 20px ;
+    height: 50px;
+    border-radius: 50%;
+    left: 700px;
+    bottom: 70px;
+    
+}

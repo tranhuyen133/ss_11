@@ -1,0 +1,25 @@
+div{
+    position: relative;
+    background-color: antiquewhite;
+    width: 150px;
+    height: 100px;
+}
+img{
+    width: 150px;
+    height: 100px;
+    position: relative;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.two{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px;
+}
+.one{
+    margin: 10px;
+    gap: 10px;
+}
